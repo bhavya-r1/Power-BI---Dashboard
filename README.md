@@ -39,8 +39,8 @@ The Performance Tracker Dashboard is an interactive Power BI solution designed t
 ---
 
 ## Dashboard Preview
-<img width="960" height="587" alt="Screenshot 2026-08-02 210327" src="https://github.com/user-attachments/assets/697f4a84-d375-4822-8c99-6d67d2295409" />
 
+<img width="958" height="595" alt="Screenshot 2026-08-02 230755" src="https://github.com/user-attachments/assets/900e7563-c889-4ca6-afde-88ce1b98e229" />
 
 ---
 
